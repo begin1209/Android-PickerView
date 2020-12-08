@@ -29,4 +29,5 @@ dependencies {
 //    implementation 'com.contrarywind:wheelview:4.1.0'
     implementation 'com.android.support:appcompat-v7:26.1.0'
     implementation 'com.google.code.gson:gson:2.7'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
 }
